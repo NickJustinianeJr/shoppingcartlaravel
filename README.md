@@ -5,7 +5,7 @@
 Please run the test_data.sql to the database to insert the test data for the set-up.
 It is located in the root folder. Thanks
 
-Please run the shoppingcartapi first by typing the command
+Please run the shoppingcartapi first by typing the command to the command promt:
 - php artisan serve
 - http://127.0.0.1:8000/
 
